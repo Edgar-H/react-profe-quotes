@@ -4,4 +4,4 @@ Este proyecto tiene las frases chidas de nuestro profe Charly de ReactJs [Create
 
 ## Creditos
 
-Jesus y Criss los cracks en la React, yo el H ando muy corto :(
+Los cracks Jesus y Criss , yo el H  :(
